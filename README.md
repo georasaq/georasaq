@@ -5,7 +5,7 @@
 
  
  Hi, I'm Owolabi Rasaq
-I'm a researcher and PhD candidate in Civil Engineering with a strong background in Hydrogeology. My work focuses on the application of Earth Observation (EO), Remote Sensing, and Machine Learning for groundwater resources assessment, climate change impact analysis, and environmental monitoring, particularly within the Sokoto-Rima Catchment, Northwestern Nigeria.
+I'm a lecturer at Achievers University Owo, Nigeria and PhD candidate in Civil Engineering with a strong background in Hydrogeology. My work focuses on the application of Earth Observation (EO), Remote Sensing, and Machine Learning for groundwater resources assessment, climate change impact analysis, and environmental monitoring, particularly within the Sokoto-Rima Catchment, Northwestern Nigeria.
 
 🔬 Research Interests:
 
